@@ -26,8 +26,7 @@
 
 ## Dataset
 #### Download the dataset used in my project 
-#### [dataset](https://1drv.ms/x/c/27abbd1444bfdc6b/Ed_q-f3jBzZEk[Uploading Stock-Market-Prediction-With-5-Algorithms.ipynb…]()
-Own89wXyPoBKpQn5AD9-fDr866JQp-7Ag?e=FwVWZ5)
+#### [dataset](https://1drv.ms/x/c/27abbd1444bfdc6b/Ed_q-f3jBzZEk[Uploading Stock-Market-Prediction-With-5-Algorithms.ipynb…]
 
 # code jupyter notebook file 
 ## 
