@@ -2,7 +2,7 @@
 
 
 
-# some predictions from model 
+# Some predictions from model on stock market 
 ![output](https://github.com/user-attachments/assets/b45888d7-5426-45aa-ac26-da3694a0c26c)
 ![newplot (11)](https://github.com/user-attachments/assets/ec82c3f4-3267-4e47-aed4-28998c72e45b)
 ![newplot (10)](https://github.com/user-attachments/assets/a49dacaf-62b6-474d-930e-71a20cf9a2e5)
@@ -28,6 +28,6 @@
 #### Download the dataset used in my project 
 #### [dataset](https://1drv.ms/x/c/27abbd1444bfdc6b/Ed_q-f3jBzZEkOwn89wXyPoBKpQn5AD9-fDr866JQp-7Ag?e=FEqO1Y)
 
-# code jupyter notebook file 
+# Code jupyter notebook file 
 ## 
 [Stock-Market-Prediction-With-5-Algorithms - Copy.zip](https://github.com/user-attachments/files/16191628/Stock-Market-Prediction-With-5-Algorithms.-.Copy.zip)
