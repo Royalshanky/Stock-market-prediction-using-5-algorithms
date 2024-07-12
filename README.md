@@ -10,8 +10,6 @@
 ![newplot (3)](https://github.com/user-attachments/assets/c22ce926-682c-458b-a411-ac8c1d5c8fe1)
 ![newplot (4)](https://github.com/user-attachments/assets/b8911d44-5298-48d3-af4d-0986ef086e56)
 ![newplot (5)](https://github.com/user-attachments/assets/eb2ab734-344c-4b76-80df-8d4d84cea804)
-![newplot (6)](https://github.com/user-attachments/assets/b12a6e68-4dbc-449b-ab53-41b3a0448a04)
-
 
 
 
