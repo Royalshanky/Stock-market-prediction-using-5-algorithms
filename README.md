@@ -3,17 +3,14 @@
 
 
 # Some predictions from model on stock market 
-![output](https://github.com/user-attachments/assets/b45888d7-5426-45aa-ac26-da3694a0c26c)
-![newplot (11)](https://github.com/user-attachments/assets/ec82c3f4-3267-4e47-aed4-28998c72e45b)
-![newplot (10)](https://github.com/user-attachments/assets/a49dacaf-62b6-474d-930e-71a20cf9a2e5)
-
-![newplot (8)](https://github.com/user-attachments/assets/1cc85f3e-4839-47d7-9c35-3eb7a6a95a04)
-
-
-
-![newplot (1)](https://github.com/user-attachments/assets/ebe69cc4-e8df-4b3d-82ef-9d0e8ec9471d)
-![newplot (3)](https://github.com/user-attachments/assets/bf69e36a-e117-40f9-b007-f561765b3a8e)
-
+![newplot (11)](https://github.com/user-attachments/assets/02a72818-bb17-407d-81d0-d2cb59aeb858)
+![Screenshot 2024-07-12 150725](https://github.com/user-attachments/assets/069dae79-002e-4217-bf4d-fc83aafbb502)
+![newplot (1)](https://github.com/user-attachments/assets/91bb48b7-5ac4-458a-afb0-4c3ad2630fd2)
+![newplot (2)](https://github.com/user-attachments/assets/f79c23d8-fc58-49a5-b027-892d89f11ec0)
+![newplot (3)](https://github.com/user-attachments/assets/c22ce926-682c-458b-a411-ac8c1d5c8fe1)
+![newplot (4)](https://github.com/user-attachments/assets/b8911d44-5298-48d3-af4d-0986ef086e56)
+![newplot (5)](https://github.com/user-attachments/assets/eb2ab734-344c-4b76-80df-8d4d84cea804)
+![newplot (6)](https://github.com/user-attachments/assets/b12a6e68-4dbc-449b-ab53-41b3a0448a04)
 
 
 
